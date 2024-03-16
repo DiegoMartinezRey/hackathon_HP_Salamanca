@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Damas chinas",
+    "description": "description game 1",
+    "image": "/imagenes/damas.png",
+    "link": "https://www.minijuegos.com/juego/damas-chinas"
+  },
+  {
+    "name": "Ajedrez",
+    "description": "description game 2",
+    "image": "/imagenes/ajedrez.png",
+    "link": "https://www.chess.com/es/play/computer"
+  },
+  {
+    "name": "Domino",
+    "description": "description game 3",
+    "image": "/imagenes/domino.png",
+    "link": "https://playpager.com/domino/"
+  },
+  {
+    "name": "Poker",
+    "description": "description game 3",
+    "image": "/imagenes/cartas.png",
+    "link": "https://www.minijuegos.com/juego/governor-of-poker-3"
+  },
+  {
+    "name": "Bingo",
+    "description": "description game 3",
+    "image": "/imagenes/bingo.png",
+    "link": "https://www.playspace.com/es-es/jugar/bingo-online"
+  },
+  {
+    "name": "Rompecabezas",
+    "description": "description game 3",
+    "image": "/imagenes/rompe.png",
+    "link": "https://www.jigsawplanet.com/?rc=play&pid=027a8f85b6ea"
+  }
+]

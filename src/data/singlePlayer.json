@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Memoria",
+    "description": "description game 1",
+    "image": "/imagenes/memo.png",
+    "link": "https://www.memozor.com/memory-games/for-seniors-or-elderly/christmas-presents"
+  },
+  {
+    "name": "Crucigrama",
+    "description": "description game 2",
+    "image": "/imagenes/crucigrama.png",
+    "link": "https://juegos.sport.es/crucigramas/hoy.html"
+  },
+  {
+    "name": "Sopa de letras",
+    "description": "description game 3",
+    "image": "/imagenes/sopa.png",
+    "link": "https://api.razzlepuzzles.com/wordsearch?locale=es"
+  },
+  {
+    "name": "Sudoku",
+    "description": "description game 3",
+    "image": "/imagenes/sudoku.png",
+    "link": "https://www.sudokuonline.io/?gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0Goh2a0nyLoHNSUKBQkEQfY-fB41B9oPdC16g-X0IkHKMTtUC2Am5B6AaAjEpEALw_wcB#google_vignette"
+  },
+  {
+    "name": "Ahorcado",
+    "description": "description game 3",
+    "image": "/imagenes/ahorca.png",
+    "link": "https://www.epasatiempos.es/juego-ahorcado.php"
+  },
+  {
+    "name": "Laberinto",
+    "description": "description game 3",
+    "image": "/imagenes/labe.png",
+    "link": "https://www.juegosjuegos.com/jugar-juego/maze-speedrun.html"
+  }
+]

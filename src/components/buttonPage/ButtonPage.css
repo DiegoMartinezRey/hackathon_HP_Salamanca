@@ -1,0 +1,22 @@
+.buttonContainer {
+  width: 100%;
+  background-color: #8b3e21;
+  border-radius: 20px;
+  height: 200px;
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.buttonContainer:hover {
+  transform: scale(102%);
+  cursor: pointer;
+}
+
+.imageButton {
+  height: 90%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  background-color: #ffab8b;
+  border-radius: 50%;
+}

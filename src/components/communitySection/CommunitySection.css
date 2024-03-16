@@ -1,0 +1,32 @@
+.gridCommunity {
+  max-width: 1000px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 2fr));
+  gap: 2rem;
+  justify-items: center;
+}
+
+.sectionFlex {
+  background-color: #ff5b20;
+  border-radius: 20px;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  transition: all 0.3s ease-in-out;
+}
+
+.sectionFlex:hover {
+  transform: scale(105%);
+}
+.sectionFlex:hover .iconCommunity {
+  transform: scale(125%);
+}
+
+.iconCommunity {
+  height: 80px;
+  transition: all 0.3s ease-in-out;
+}

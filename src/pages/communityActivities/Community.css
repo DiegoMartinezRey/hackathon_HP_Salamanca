@@ -1,0 +1,14 @@
+.communityFlex {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.communityContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  width: 80%;
+}

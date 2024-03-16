@@ -1,0 +1,41 @@
+.typeGameFlex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+
+.typeGameContainer {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+.playerFlex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.imgGame {
+  height: 250px;
+  aspect-ratio: 1/1;
+  background-color: rgb(255, 255, 255);
+  border: 5px solid #ff5b20;
+  object-fit: contain;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.imgGame:hover {
+  transform: scale(110%);
+}
+
+.infoGame {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  border-radius: 20px;
+}

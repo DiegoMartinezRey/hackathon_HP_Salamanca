@@ -1,0 +1,54 @@
+.helpFlex {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.helpContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-color: #ff5b20;
+  border-radius: 20px;
+  padding: 40px;
+  width: 80%;
+  min-width: 300px;
+}
+
+.frameVideo {
+  width: 560px;
+  height: 315px;
+}
+
+.flexButtons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.flexInfoButtons {
+  height: 250px;
+  aspect-ratio: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffa584;
+  border-radius: 50%;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+.flexInfoButtons:hover {
+  transform: scale(105%);
+}
+
+.imageHelp {
+  height: 150px;
+  aspect-ratio: 1;
+  object-fit: contain;
+}

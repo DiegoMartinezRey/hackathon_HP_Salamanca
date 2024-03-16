@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Musica",
+    "by": "Persona 1",
+    "participants": 10,
+    "icon": "/imagenes/iconmusic.png"
+  },
+  {
+    "title": "Entretenimiento",
+    "by": "Persona 2",
+    "participants": 20,
+    "icon": "/imagenes/iconmovie.png"
+  },
+  {
+    "title": "Historia",
+    "by": "Persona 3",
+    "participants": 15,
+    "icon": "/imagenes/iconhisto.png"
+  },
+  {
+    "title": "Libros",
+    "by": "Persona 4",
+    "participants": 10,
+    "icon": "/imagenes/iconlibros.png"
+  },
+  {
+    "title": "Acnecdotas",
+    "by": "Persona 4",
+    "participants": 10,
+    "icon": "/imagenes/iconanecdota.png"
+  }
+]

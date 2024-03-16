@@ -1,0 +1,51 @@
+.switchGameContainer {
+  display: flex;
+  gap: 10px;
+}
+
+.listFlex {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.listFlexGame {
+  width: 80%;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.listContainer {
+  background-color: #ff5b20;
+  width: 80%;
+  min-width: 300px;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+
+.noDisplaySinglePlayer {
+  display: none;
+}
+.displaySinglePlayer {
+  transition: all 0.2s ease-in-out;
+  border: 2px solid greenyellow;
+}
+
+.displayMultiplayer {
+  display: block;
+}
+
+.imageGameSingle {
+  height: 100px;
+  aspect-ratio: 1;
+  object-fit: contain;
+}
